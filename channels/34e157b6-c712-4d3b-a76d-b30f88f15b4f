@@ -2,8 +2,9 @@
   <id>34e157b6-c712-4d3b-a76d-b30f88f15b4f</id>
   <nextMetaDataId>3</nextMetaDataId>
   <name>HL7 Reader</name>
-  <description>Updated description</description>
-  <revision>2</revision>
+  <description>Updated description
+Updated again</description>
+  <revision>3</revision>
   <sourceConnector version="4.5.2">
     <metaDataId>0</metaDataId>
     <name>sourceConnector</name>
@@ -285,7 +286,7 @@ return;</undeployScript>
     <metadata>
       <enabled>false</enabled>
       <lastModified>
-        <time>1752596084138</time>
+        <time>1752596110155</time>
         <timezone>America/Chicago</timezone>
       </lastModified>
       <pruningSettings>
